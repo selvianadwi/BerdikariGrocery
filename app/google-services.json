@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661236160153",
+    "project_id": "aplikasi-kelontong",
+    "storage_bucket": "aplikasi-kelontong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661236160153:android:bc528c369ec97c10048a08",
+        "android_client_info": {
+          "package_name": "com.example.aplikasikelontong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661236160153-5dk3ej4nhd2htd80buqi1mfrrss1nch3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-hyGiGtVKZomPdm2JAO2jMSWuOFqNvNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661236160153-5dk3ej4nhd2htd80buqi1mfrrss1nch3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
